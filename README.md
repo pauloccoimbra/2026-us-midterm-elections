@@ -10,7 +10,7 @@
 Control scoreboard (Senate: majority is 51, or 50 with the vice president's vote; governors: 26 of 50; House: 218 of 435), tile-grid map by state, key races, full table, party flips, surprises against consensus, paths to Senate control, remaining votes in races being counted, timeline of calls and the poll-closing schedule (ET and the visitor's local time). The first-polls countdown ends when counting starts.
 
 ## Visit counter
-The page uses GoatCounter (code `2026-us-midterm-elections`, dashboard at https://2026-us-midterm-elections.goatcounter.com). GoatCounter sets no cookies and stores no personal data. Create the site with that code at goatcounter.com before publishing.
+The page uses GoatCounter (code `2026-us-midterm-elections`, dashboard at https://2026-us-midterm-elections.goatcounter.com). GoatCounter sets no cookies and stores no personal data.
 
 ## Feeding it data
 The page re-reads `data/results.json` every 20 s. Ways to update it:
