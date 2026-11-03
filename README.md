@@ -9,20 +9,6 @@
 ## What it shows
 Control scoreboard (Senate: majority is 51, or 50 with the vice president's vote; governors: 26 of 50; House: 218 of 435), tile-grid map by state, key races, full table, party flips, surprises against consensus, paths to Senate control, remaining votes in races being counted, timeline of calls and the poll-closing schedule (ET and the visitor's local time). The first-polls countdown ends when counting starts.
 
-## Publish on GitHub Pages
-1. The repository is https://github.com/pauloccoimbra/2026-us-midterm-elections (create it empty on GitHub and push these files, see below).
-2. Settings > Pages > Deploy from a branch > `main` / `(root)`.
-3. Address: `https://pauloccoimbra.github.io/2026-us-midterm-elections/`
-
-```bash
-cd 2026-us-midterm-elections
-git init -b main
-git add .
-git commit -m "US Midterm Elections 2026: first version"
-git remote add origin https://github.com/pauloccoimbra/2026-us-midterm-elections.git
-git push -u origin main
-```
-
 ## Visit counter
 The page uses GoatCounter (code `2026-us-midterm-elections`, dashboard at https://2026-us-midterm-elections.goatcounter.com). GoatCounter sets no cookies and stores no personal data. Create the site with that code at goatcounter.com before publishing.
 
