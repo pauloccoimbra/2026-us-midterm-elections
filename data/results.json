@@ -1,1 +1,207 @@
-{"updated":null,"races":{}}
+{
+  "updated": "2026-11-04T14:04:02Z",
+  "races": {
+    "S-ME": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-IA": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-KS": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-TX": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-OH": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-SC": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-NC": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-GA": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-MN": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-MI": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-NH": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "S-FL": {
+      "pct": 0,
+      "cands": [],
+      "called": "R"
+    },
+    "S-NE": {
+      "pct": 0,
+      "cands": [],
+      "called": "R"
+    },
+    "G-OH": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-TX": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-IA": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-GA": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-NV": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-NM": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-NY": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-CA": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-MD": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-PA": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-IL": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-CT": {
+      "pct": 0,
+      "cands": [],
+      "called": "D"
+    },
+    "G-FL": {
+      "pct": 0,
+      "cands": [],
+      "called": "R"
+    },
+    "H-FL-14": {
+      "pct": 0,
+      "cands": [],
+      "called": "D",
+      "name": "FL-14",
+      "hold": "D",
+      "ch": "H"
+    },
+    "H-FL-16": {
+      "pct": 0,
+      "cands": [],
+      "called": "R",
+      "name": "FL-16",
+      "hold": "R",
+      "ch": "H"
+    },
+    "H-FL-25": {
+      "pct": 0,
+      "cands": [],
+      "called": "D",
+      "name": "FL-25",
+      "hold": "D",
+      "ch": "H"
+    },
+    "H-NC-11": {
+      "pct": 0,
+      "cands": [],
+      "called": "D",
+      "name": "NC-11",
+      "hold": "R",
+      "ch": "H"
+    },
+    "H-IN-05": {
+      "pct": 0,
+      "cands": [],
+      "called": "D",
+      "name": "IN-05",
+      "hold": "R",
+      "ch": "H"
+    },
+    "H-IA-01": {
+      "pct": 0,
+      "cands": [],
+      "called": "D",
+      "name": "IA-01",
+      "hold": "R",
+      "ch": "H"
+    },
+    "H-IA-02": {
+      "pct": 0,
+      "cands": [],
+      "called": "D",
+      "name": "IA-02",
+      "hold": "R",
+      "ch": "H"
+    },
+    "H-IA-03": {
+      "pct": 0,
+      "cands": [],
+      "called": "D",
+      "name": "IA-03",
+      "hold": "R",
+      "ch": "H"
+    },
+    "H-TX-34": {
+      "pct": 0,
+      "cands": [],
+      "called": "D",
+      "name": "TX-34",
+      "hold": "R",
+      "ch": "H"
+    }
+  }
+}
