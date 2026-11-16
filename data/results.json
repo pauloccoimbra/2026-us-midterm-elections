@@ -1,0 +1,763 @@
+{
+ "updated": "2026-11-16T03:14:12Z",
+ "houseTotals": {
+  "D": 256,
+  "R": 169,
+  "source": "AP count via CaliforniaToday",
+  "asOf": "Nov 14, 2026 12:01 AM ET"
+ },
+ "races": {
+  "S-ME": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-IA": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-KS": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-TX": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-OH": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-SC": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-NC": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-GA": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-MN": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-MI": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-NH": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-CO": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-DE": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-IL": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-MA": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-NJ": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-NM": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-OR": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-RI": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-VA": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "S-AL": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-AR": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-FL": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-ID": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-KY": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-LA": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-MT": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-NE": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-OK": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-SD": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-TN": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-WV": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-WY": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "S-AK": {
+   "pct": 0,
+   "cands": [],
+   "called": null,
+   "note": "Not called by the AP as of Nov 13. Peltola (D) 49.9%, Sullivan (R) 46.0% with about 97% counted (Alaska Public Media, Nov 13); Peltola declared victory on Nov 14. Ranked-choice tabulation is possible if no one passes 50%."
+  },
+  "S-MS": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "note": "Colom (D) 49.2%, Hyde-Smith (R) 48.7% per AP figures; Hyde-Smith conceded (reports of Nov 12). Margin was a few dozen votes on election night."
+  },
+  "G-FL": {
+   "pct": 99.0,
+   "cands": [
+    {
+     "n": "Byron Donalds",
+     "p": "R",
+     "v": 4132275
+    },
+    {
+     "n": "David Jolly",
+     "p": "D",
+     "v": 4024554
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 107721
+    }
+   ],
+   "called": "R"
+  },
+  "G-GA": {
+   "pct": 98.6,
+   "cands": [
+    {
+     "n": "Keisha Lance Bottoms",
+     "p": "D",
+     "v": 2268462
+    },
+    {
+     "n": "Rick Jackson",
+     "p": "R",
+     "v": 1908261
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 923
+    }
+   ],
+   "called": "D"
+  },
+  "G-OH": {
+   "pct": 98.8,
+   "cands": [
+    {
+     "n": "Amy Acton",
+     "p": "D",
+     "v": 2404178
+    },
+    {
+     "n": "Vivek Ramaswamy",
+     "p": "R",
+     "v": 2039730
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 152991
+    }
+   ],
+   "called": "D"
+  },
+  "G-KS": {
+   "pct": 97.9,
+   "cands": [
+    {
+     "n": "Cindy Holscher",
+     "p": "D",
+     "v": 546587
+    },
+    {
+     "n": "Ty Masterson",
+     "p": "R",
+     "v": 541030
+    }
+   ],
+   "called": "D"
+  },
+  "G-MI": {
+   "pct": 96.6,
+   "cands": [
+    {
+     "n": "Jocelyn Benson",
+     "p": "D",
+     "v": 2591316
+    },
+    {
+     "n": "John James",
+     "p": "R",
+     "v": 2078052
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 85340
+    }
+   ],
+   "called": "D"
+  },
+  "G-NH": {
+   "pct": 90.1,
+   "cands": [
+    {
+     "n": "Kelly Ayotte",
+     "p": "R",
+     "v": 299637
+    },
+    {
+     "n": "Cinde Warmington",
+     "p": "D",
+     "v": 276986
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 9751
+    }
+   ],
+   "called": "R"
+  },
+  "G-TX": {
+   "pct": 96.4,
+   "cands": [
+    {
+     "n": "Gina Hinojosa",
+     "p": "D",
+     "v": 5185814
+    },
+    {
+     "n": "Greg Abbott",
+     "p": "R",
+     "v": 4461211
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 156026
+    }
+   ],
+   "called": "D"
+  },
+  "G-AZ": {
+   "pct": 82.8,
+   "cands": [
+    {
+     "n": "Katie Hobbs",
+     "p": "D",
+     "v": 1192610
+    },
+    {
+     "n": "Andy Biggs",
+     "p": "R",
+     "v": 913069
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 35452
+    }
+   ],
+   "called": "D"
+  },
+  "G-IA": {
+   "pct": 98.4,
+   "cands": [
+    {
+     "n": "Rob Sand",
+     "p": "D",
+     "v": 757326
+    },
+    {
+     "n": "Zach Lahn",
+     "p": "R",
+     "v": 607415
+    }
+   ],
+   "called": "D"
+  },
+  "G-NE": {
+   "pct": 90.9,
+   "cands": [
+    {
+     "n": "Jim Pillen",
+     "p": "R",
+     "v": 371775
+    },
+    {
+     "n": "Lynne Walz",
+     "p": "D",
+     "v": 310774
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 52184
+    }
+   ],
+   "called": "R"
+  },
+  "G-WI": {
+   "pct": 98.5,
+   "cands": [
+    {
+     "n": "David Crowley",
+     "p": "D",
+     "v": 1438721
+    },
+    {
+     "n": "Tom Tiffany",
+     "p": "R",
+     "v": 1221668
+    }
+   ],
+   "called": "D"
+  },
+  "G-NV": {
+   "pct": 87.2,
+   "cands": [
+    {
+     "n": "Aaron Ford",
+     "p": "D",
+     "v": 506653
+    },
+    {
+     "n": "Joe Lombardo",
+     "p": "R",
+     "v": 432732
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 40601
+    }
+   ],
+   "called": "D"
+  },
+  "G-CA": {
+   "pct": 59.3,
+   "cands": [
+    {
+     "n": "Xavier Becerra",
+     "p": "D",
+     "v": 4982430
+    },
+    {
+     "n": "Steve Hilton",
+     "p": "R",
+     "v": 2804925
+    }
+   ],
+   "called": "D"
+  },
+  "G-OR": {
+   "pct": 75.1,
+   "cands": [
+    {
+     "n": "Tina Kotek",
+     "p": "D",
+     "v": 795725
+    },
+    {
+     "n": "Christine Drazan",
+     "p": "R",
+     "v": 699400
+    },
+    {
+     "n": "Other candidates",
+     "p": "I",
+     "v": 43995
+    }
+   ],
+   "called": "D"
+  },
+  "G-AK": {
+   "pct": 73.9,
+   "called": "D",
+   "cands": [
+    {
+     "n": "Jonathan Kreiss-Tomkins",
+     "p": "D",
+     "v": 103610
+    },
+    {
+     "n": "Bernadette Wilson",
+     "p": "R",
+     "v": 61566
+    },
+    {
+     "n": "Dave Bronson",
+     "p": "R",
+     "v": 29900
+    },
+    {
+     "n": "Treg Taylor",
+     "p": "R",
+     "v": 15713
+    }
+   ],
+   "note": "Won outright with more than 50% of first-choice votes (called by CNN on Nov 12; no ranked-choice rounds needed). Vote counts shown were taken on Nov 4."
+  },
+  "G-AR": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "G-CO": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-CT": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-HI": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-ID": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "G-IL": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-ME": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-MD": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-MA": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-MN": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-NM": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-NY": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-OK": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "G-PA": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-RI": {
+   "pct": 0,
+   "cands": [],
+   "called": "D"
+  },
+  "G-SC": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "G-SD": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "G-TN": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "G-VT": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "G-WY": {
+   "pct": 0,
+   "cands": [],
+   "called": "R"
+  },
+  "G-AL": {
+   "pct": 0,
+   "cands": [],
+   "called": "R",
+   "note": "Tuberville (R) projected winner on Nov 4; Jones (D) conceded."
+  },
+  "H-KY-06": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "KY-06",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-FL-14": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "FL-14",
+   "hold": "D",
+   "ch": "H"
+  },
+  "H-FL-22": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "FL-22",
+   "hold": "D",
+   "ch": "H"
+  },
+  "H-FL-25": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "FL-25",
+   "hold": "D",
+   "ch": "H"
+  },
+  "H-FL-16": {
+   "pct": 0,
+   "cands": [],
+   "called": "R",
+   "name": "FL-16",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-VA-01": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "VA-01",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-VA-02": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "VA-02",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-OH-07": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "OH-07",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-MI-04": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "MI-04",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-MI-07": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "MI-07",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-PA-01": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "PA-01",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-TX-15": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "TX-15",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-TX-35": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "TX-35",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-IA-01": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "IA-01",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-IA-02": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "IA-02",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-IA-03": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "IA-03",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-NY-17": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "NY-17",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-MT-01": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "MT-01",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-CA-22": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "CA-22",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-NC-11": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "NC-11",
+   "hold": "R",
+   "ch": "H"
+  },
+  "H-IN-05": {
+   "pct": 0,
+   "cands": [],
+   "called": "D",
+   "name": "IN-05",
+   "hold": "R",
+   "ch": "H"
+  }
+ }
+}
